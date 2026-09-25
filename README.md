@@ -83,7 +83,7 @@ I'm an **AI & Data Science Engineer** who turns raw data into intelligent, produ
 | --- | --- |
 | [**Gaze — AI Face Analysis**](https://github.com/codeby-jayesh/first) | Full-stack AI web app that detects faces and predicts gender & age — Flask, DeepFace, OpenCV, Docker & Render |
 | [**Student Placement Prediction**](https://github.com/codeby-jayesh/College-placement-project) | ML-driven placement analysis engine — Jupyter Notebook, Pandas, Logistic Regression & Streamlit |
-| [**Portfolio Website**](https://github.com/codeby-jayesh/codeby-jayesh.github.io) | Personal portfolio — modern dark UI, custom cursor, particle canvas & smooth animations |
+| [**Portfolio Website**](https://github.com/codeby-jayesh/codeby-jayesh.github.io) | Personal portfolio — hand-crafted neo-brutalist design, flip cards, custom cursor & interactive terminal resume |
 
 ## 🤝 Let's Connect
 
